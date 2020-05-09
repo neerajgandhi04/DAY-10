@@ -1,0 +1,160 @@
+* {
+	padding: 0px;
+	margin: 0px;
+
+}  
+body{
+    background: #E6E9F2;
+  
+}
+	
+
+.header-control{
+	background-color: #47639E;
+	width: 100%;
+	height: 80px;
+}
+.control-align{
+	width: 980px;
+	height: 280px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.img-control{
+	float: left;
+	
+}
+.img-control img{
+	width: 200px;
+	height: 50px;
+	margin-top: 25px;
+	
+}
+.login{
+	float: right;
+	font-family:arial;
+	font-size: 13px;
+	color: white;
+	margin-top: 12px;
+
+}
+.login p{
+	margin-left: 10px; 
+}
+.inputtext{
+	width: 150px;
+	height: 20px;
+	margin-left: 10px;	 
+}
+.btn{
+	background-color: #2980b9;
+	color: white;
+	font-family: Arial;
+	padding: 05px,05px,05px,05px;
+	border: none;
+	border-radius: 0.3px;
+	margin-left: 05px;
+
+}
+.login a{
+	color: white;
+	text-decoration: none;
+}
+,
+.containt-control{
+	width: 980px;
+	height: 1000px; 
+	margin-left: auto;
+	margin-right: auto; 
+}
+.left{
+	float: left;
+	margin-top: 25px;
+	
+	width: 400px;
+	font-family: Arial;
+	color: #0E385F;
+}
+.left img{
+	margin: 90px 0px 0px 130px;
+
+}
+.left h3{
+	
+	width: 100%;
+	position: absolute;
+	top: 120px;
+	left: 150px;
+}
+.right{
+	float: right;
+	font-family: Arial;
+	margin-top: 15px;
+	margin-right: 25px;
+	margin-left: 50px;
+
+}
+.ipt{
+	width: 180px;
+	height: 30px;
+	margin-top: 15px;
+	margin-left: 10px;
+
+	border-radius: 03px;
+	border: none;
+	border: 1px solid #95a5a6;
+	padding-left: 10px;
+	font-size: 20px;
+
+}
+.ipt2{
+	width: 400px;
+	height: 30px;
+	border-radius: 03px;
+	font-size: 20px;
+	border: none;
+	border: 1px solid #95a5a6;
+	margin-left: 10px;
+	margin-top: 15px;
+
+}
+.Birtday{
+	font-size: 18px;
+	font-family: Arial;
+	color: #90949C;
+	margin-left: 10px;
+	
+}
+.text h6{
+	color: #777777;
+}
+.select{
+	height: 40px;
+	width: 55px;
+	padding: 6px;
+	margin-left: 25px;
+}
+.sin{
+	height: 28px;
+	width: 120px;
+	color: #fff;
+	background: #609421;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+
+}
+.sin:hover{
+	height: 28px;
+	width: 120px;
+	color: #fff;
+	background: #788763;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+
+}
+.text h4{
+	color: #777;
+}
